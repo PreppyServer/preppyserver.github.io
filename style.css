@@ -78,20 +78,21 @@ ul {
 }
 
 .joinNow {
-    margin-bottom: 30px;
+    margin: auto;
     display: grid;
-    width: 100%;
+    margin-bottom: 40px;
+    width: 90%;
     max-width: 1200px;
     text-align: center;
     gap: 20px;
     background: white;
-    padding: 30px;
+    padding: 3%;
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(255, 105, 180, 0.2);
     transition: transform 0.2s;
 }
 
-.joinNow * {
+.joinNow  p{
     margin: 0;
 }
 
